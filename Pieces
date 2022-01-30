@@ -1,0 +1,10 @@
+Machines - pieces of a whole that take inputs and outputs
+  Within a machine you have numered inlets and numbered outlets, and machines specify what goes in
+  For instance a machine can take torque into inlet 1 and put modular force into inlet 1, or take modular force into inlet 2 and a timer into outlet 1
+  
+  Machines and their parts can have issues of stress, rust, lubrication, cracks, brittleness, ec.
+  
+  I think this should not be a complete game but instead a sort of electronic support for a DnD game
+  
+  Come to think of it, an ipad-supported dice game that has DMs sending checks and player classes doing advanced computations is a niche we might want to check otu.
+  
